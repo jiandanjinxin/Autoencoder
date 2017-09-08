@@ -17,6 +17,8 @@ The detail information about autoencoder you can check the blog [自编码学习
   
   The code in [curiousily-Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras](https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras)
   
+  [building-autoencoders-in-keras](https://blog.keras.io/building-autoencoders-in-keras.html)
+  
   ---------------------------------------
   **PyTorch version  Autoencoder**
   
