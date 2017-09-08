@@ -8,12 +8,14 @@ The detail information about autoencoder you can check the blog [自编码学习
 
 [Credit Card Fraud Detection using Autoencoders in Keras — TensorFlow for Hackers (Part VII)](https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd
 )
+
  	autoencoderCreditCardFraudDetection.ipynb 
 	
 	autoencoderCreditCardFraudDetection.py 
 	
 	fraud_detection.ipynb
   
+  The code in [curiousily-Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras](https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras)
   
   ---------------------------------------
   **PyTorch version  Autoencoder**
