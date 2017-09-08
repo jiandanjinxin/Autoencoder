@@ -34,6 +34,9 @@ The detail information about autoencoder you can check the blog [自编码学习
  ------------------------------------------------
  **Tensorflow version Autoencoder**
  
+ [Variational Autoencoder in TensorFlow](https://jmetzen.github.io/2015-11-27/vae.html)
+ 
+ 
  The detail information in [Diving Into TensorFlow With Stacked Autoencoders](http://cmgreen.io/2016/01/04/tensorflow_deep_autoencoder.html)
  
  
